@@ -2,8 +2,9 @@
 # 👋 Hi, I'm Nikola Štefančić
 
 **Student of Information Systems**  
-📍 Zagreb, Croatia 
-📧 nikola.stefancic@gmail.com | nstefa1@vvg.hr | **LinkedIn:** [nikola-štefančić](https://www.linkedin.com/in/nikola-%C5%A1tefan%C4%8Di%C4%87-801455331/)
+📍 Zagreb, Croatia
+**LinkedIn:** [nikola-štefančić](https://www.linkedin.com/in/nikola-%C5%A1tefan%C4%8Di%C4%87-801455331/)
+📧 nikola.stefancic@gmail.com | nstefa1@vvg.hr
 
 
 ## ⭐ About Me
