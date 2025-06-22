@@ -5,7 +5,7 @@
 📍 Zagreb, Croatia  
 📧 nikola.stefancic@gmail.com | nstefa1@vvg.hr
 
-## 🚀 About Me
+## ⭐ About Me
 
 I am a first-year graduate student at the University of Applied Sciences Velika Gorica, passionate about web application development and improving software solutions in the internet environment. I enjoy staying active, learning new technologies, and working collaboratively in teams to solve creative challenges.
 
@@ -23,13 +23,13 @@ I am a first-year graduate student at the University of Applied Sciences Velika 
 
 - **Microsoft Stack:** Azure, Office 365 Copilot, SharePoint (Basics)
   
-- **AI Tools:** ChatGPT, Gemini, Perplexity Pro, Pieces AI
+- **AI Tools:** ChatGPT, Gemini, Perplexity Pro, Pieces AI (For Developers)
   
-- **Design:** Adobe Photoshop, Premiere Pro, Acrobat DC
+- **Adobe Tools:** Adobe Photoshop, Premiere Pro, Acrobat DC
   
-- **Productivity:** Notion, TickTick App
+- **Productivity:** Notion, TickTick (Time & Task Manager)
 
-## Current Stack I'm learning: MERN (MongoDB, Express, JavaScript, Node)
+## 🚀Current Stack I'm learning: MERN (MongoDB, Express, JavaScript, Node)
 
 
 ## 🧑‍💻 Work Experience
