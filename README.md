@@ -21,7 +21,7 @@ I am a first-year graduate student at the University of Applied Sciences Velika 
   
 - **Databases:** RDBMS (Oracle SQL, MySQL), MongoDB
   
-- **Version Control:** Git, GitHub
+- **Build Tools & Version Control:** Webpack, Vite, NPM, Git(Github)
 
 - **Testing & APIs:** Jest (Unit Testing), Postman, REST API
 
