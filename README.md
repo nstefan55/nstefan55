@@ -5,7 +5,7 @@
 📍 Zagreb, Croatia  
 📧 nikola.stefancic@gmail.com | nstefa1@vvg.hr
 
-## 🟢Open to Work 
+**🟢Open to Work in positions such as QA, System Administration and at best Web Development or Software Engineering
 
 ## 🚀 About Me
 
