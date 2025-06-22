@@ -5,6 +5,8 @@
 📍 Zagreb, Croatia  
 📧 nikola.stefancic@gmail.com | nstefa1@vvg.hr
 
+## 🟢Open to Work 
+
 ## 🚀 About Me
 
 I am a first-year graduate student at the University of Applied Sciences Velika Gorica, passionate about web application development and improving software solutions in the internet environment. I enjoy staying active, learning new technologies, and working collaboratively in teams to solve creative challenges.
