@@ -2,7 +2,10 @@
 # 👋 Hi, I'm Nikola Štefančić
 
 **Student of Information Systems**  
-📍 Zagreb, Croatia  
+📍 Zagreb, Croatia 
+
+## 🔗 Connect With Me
+- **LinkedIn:** [nikola-štefančić](https://www.linkedin.com/in/nikola-%C5%A1tefan%C4%8Di%C4%87-801455331/)
 📧 nikola.stefancic@gmail.com | nstefa1@vvg.hr
 
 ## ⭐ About Me
@@ -61,10 +64,5 @@ I am a first-year graduate student at the University of Applied Sciences Velika 
 
 - **Sports:** Calisthenics/Streetlifting, Powerlifting
 - **Learning:** New technologies, software development, fitness tech
-
-## 🔗 Connect With Me
-
-- **LinkedIn:** [nikola-štefančić](https://www.linkedin.com/in/nikola-%C5%A1tefan%C4%8Di%C4%87-801455331/)
-- **Email:** nikola.stefancic@gmail.com | nstefa1@vvg.hr
 
 ---
