@@ -36,10 +36,7 @@ I am a first-year graduate student at the University of Applied Sciences Velika 
 
 - **Junior System Administrator** – Combis d.o.o. (Nov 2023 – Jan 2024)
   - Computer system maintenance, performance monitoring, log analysis, hardware/software troubleshooting, Active Directory user management, automation and scripting, L2 support
-- **Retail Salesperson** – Studenac d.o.o. (Apr – Nov 2023)
-  - Customer service, cash register, work in IPIS information system
-- **Warehouse Worker** – Udžbenik d.o.o. (Aug 2022)
-- **Physical Jobs** – Moving business equipment (2024 – Present, occasional/weekends)
+
 
 ## 🎓 Education
 
