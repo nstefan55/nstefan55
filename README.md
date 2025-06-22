@@ -5,8 +5,8 @@
 📍 Zagreb, Croatia
 
 ## 🔗 Connect with Me
-**LinkedIn:** [nikola-štefančić](https://www.linkedin.com/in/nikola-%C5%A1tefan%C4%8Di%C4%87-801455331/)
-📧 nikola.stefancic@gmail.com | nstefa1@vvg.hr
+- **LinkedIn:** [nikola-štefančić](https://www.linkedin.com/in/nikola-%C5%A1tefan%C4%8Di%C4%87-801455331/)
+- 📧 nikola.stefancic@gmail.com | nstefa1@vvg.hr
 
 
 ## ⭐ About Me
