@@ -64,8 +64,7 @@ I am a first-year graduate student at the University of Applied Sciences Velika 
 
 ## 🔗 Connect With Me
 
-- **GitHub:** nstefan55
-- **LinkedIn:** nikola-štefančić
-- **Email:** nikola.stefancic@gmail.com
+- **LinkedIn:** [nikola-štefančić](https://www.linkedin.com/in/nikola-%C5%A1tefan%C4%8Di%C4%87-801455331/)
+- **Email:** nikola.stefancic@gmail.com | nstefa1@vvg.hr
 
 ---
