@@ -12,14 +12,22 @@ I am a first-year graduate student at the University of Applied Sciences Velika 
 ## 🛠️ Technical Skills
 
 - **Frontend:** HTML5, CSS3, JavaScript
+  
 - **Backend:** Node.js (Basics), Express.js, PHP, Laravel (Basics)
+  
 - **Databases:** SQL, RDBMS
+  
 - **Version Control:** Git, GitHub
+
 - **Testing & APIs:** HTTP, Postman
+
 - **Microsoft Stack:** Azure, Office 365 Copilot, SharePoint (Basics)
+  
 - **AI Tools:** ChatGPT, Gemini, Perplexity Pro, Pieces AI
+  
 - **Design:** Adobe Photoshop, Premiere Pro, Acrobat DC
-- **Productivity:** Notion, MS Office
+  
+- **Productivity:** Notion, TickTick App
 
 
 ## 🧑‍💻 Work Experience
