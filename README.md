@@ -5,8 +5,6 @@
 📍 Zagreb, Croatia  
 📧 nikola.stefancic@gmail.com | nstefa1@vvg.hr
 
-**🟢Open to Work in positions such as QA, System Administration and at best Web Development or Software Engineering
-
 ## 🚀 About Me
 
 I am a first-year graduate student at the University of Applied Sciences Velika Gorica, passionate about web application development and improving software solutions in the internet environment. I enjoy staying active, learning new technologies, and working collaboratively in teams to solve creative challenges.
@@ -15,13 +13,13 @@ I am a first-year graduate student at the University of Applied Sciences Velika 
 
 - **Frontend:** HTML5, CSS3, JavaScript
   
-- **Backend:** Node.js (Basics), Express.js, PHP, Laravel (Basics)
+- **Backend:** Node.js (Basics), Express.js, PHP & Laravel (Basics)
   
-- **Databases:** SQL, RDBMS
+- **Databases:** RDBMS, MongoDB
   
 - **Version Control:** Git, GitHub
 
-- **Testing & APIs:** HTTP, Postman
+- **Testing & APIs:** Jest (Unit Testing for JS), Postman (HTTP Requests)
 
 - **Microsoft Stack:** Azure, Office 365 Copilot, SharePoint (Basics)
   
@@ -30,6 +28,8 @@ I am a first-year graduate student at the University of Applied Sciences Velika 
 - **Design:** Adobe Photoshop, Premiere Pro, Acrobat DC
   
 - **Productivity:** Notion, TickTick App
+
+## Current Stack I'm learning with: MERN (MongoDB, Express, Vanilla JS, Node)
 
 
 ## 🧑‍💻 Work Experience
