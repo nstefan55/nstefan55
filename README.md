@@ -29,7 +29,7 @@ I am a first-year graduate student at the University of Applied Sciences Velika 
   
 - **Productivity:** Notion, TickTick App
 
-## Current Stack I'm learning with: MERN (MongoDB, Express, Vanilla JS, Node)
+## Current Stack I'm learning: MERN (MongoDB, Express, JavaScript, Node)
 
 
 ## 🧑‍💻 Work Experience
