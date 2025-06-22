@@ -1,6 +1,3 @@
-Certainly! Here’s a polished, professional GitHub profile README template for Nikola Štefančić, based on your resume and experience. This template highlights your background, skills, projects, and interests, making your profile stand out to visitors.
-
----
 
 # 👋 Hi, I'm Nikola Štefančić
 
