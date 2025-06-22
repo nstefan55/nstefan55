@@ -23,7 +23,7 @@ I am a first-year graduate student at the University of Applied Sciences Velika 
   
 - **Version Control:** Git, GitHub
 
-- **Testing & APIs:** Jest (Unit Testing), Postman
+- **Testing & APIs:** Jest (Unit Testing), Postman, REST API
 
 - **Microsoft Stack:** Azure, Office 365 Copilot, SharePoint (Basics)
   
