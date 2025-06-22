@@ -9,13 +9,13 @@
 
 I am a first-year graduate student at the University of Applied Sciences Velika Gorica, passionate about web application development and improving software solutions in the internet environment. I enjoy staying active, learning new technologies, and working collaboratively in teams to solve creative challenges.
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills (College & Self-Learning)
 
 - **Frontend:** HTML5, CSS3, JavaScript
   
 - **Backend:** Node.js (Basics), Express.js, PHP & Laravel (Basics)
   
-- **Databases:** RDBMS, MongoDB
+- **Databases:** RDBMS (Oracle SQL, MySQL), MongoDB
   
 - **Version Control:** Git, GitHub
 
