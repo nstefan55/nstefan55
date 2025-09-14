@@ -11,7 +11,7 @@
 
 ## ⭐ About Me
 
-I am a first-year graduate student at the University of Applied Sciences Velika Gorica, passionate about web application development and improving software solutions in the internet environment. I enjoy staying active, learning new technologies, and working collaboratively in teams to solve creative challenges.
+I am a 2nd year graduate student at the University of Applied Sciences Velika Gorica, passionate about web application development and improving software solutions in the internet environment. I enjoy staying active, learning new technologies, and working collaboratively in teams to solve creative challenges.
 
 ## 🛠️ Technical Skills (College & Self-Learning)
 
