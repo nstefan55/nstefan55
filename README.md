@@ -9,32 +9,26 @@
 - **E-mail:** nikola.stefancic@gmail.com | nstefa1@vvg.hr
 
 
-## ⭐ About Me
+## ⭐ Quick About Me
 
-I am a 2nd year graduate student at the University of Applied Sciences Velika Gorica, passionate about web application development and improving software solutions in the internet environment. I enjoy staying active, learning new technologies, and working collaboratively in teams to solve creative challenges.
+I am a 2nd year graduate student at the University of Applied Sciences Velika Gorica, passionate about full-stack web development and improving software solutions in the internet environment.
 
 ## 🛠️ Technical Skills (College & Self-Learning)
 
-- **Frontend:** HTML5, CSS3, JavaScript
+- **Frontend:** HTML5, CSS3, JavaScript/TypeScript
   
-- **Backend:** Node.js (Basics), Express.js, PHP & Laravel (Basics)
+- **Backend:** Node.js/Express
+
+- **Frameworks:** React, Next
   
 - **Databases:** RDBMS (Oracle SQL, MySQL), MongoDB
   
-- **Build Tools & Version Control:** Webpack, Vite, NPM, Git(Github)
+- **Build Tools & Version Control: Vite, NPM, Git(Github)
 
 - **Testing & APIs:** Jest (Unit Testing), Postman, REST API
 
-- **Microsoft Stack:** Azure, Office 365 Copilot, SharePoint (Basics)
+- **Microsoft Stack:** Azure
   
-- **AI Tools:** ChatGPT, Gemini, Perplexity Pro, Pieces AI (For Developers)
-  
-- **Adobe Tools:** Adobe Photoshop, Premiere Pro, Acrobat DC
-  
-- **Productivity:** Notion, TickTick (Time & Task Manager)
-
-## 🚀Current Stack I'm learning: MERN (MongoDB, Express, JavaScript, Node)
-
 
 ## 🧑‍💻 Work Experience
 
@@ -60,10 +54,5 @@ I am a 2nd year graduate student at the University of Applied Sciences Velika Go
 - **Croatian** – Native
 - **English** – B2
 - **German** – A2
-
-## 🏋️‍♂️ Interests
-
-- **Sports:** Calisthenics/Streetlifting, Powerlifting
-- **Learning:** New technologies, software development, fitness tech
 
 ---
