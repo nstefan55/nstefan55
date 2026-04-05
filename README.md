@@ -31,7 +31,7 @@ I am a 2nd year graduate student at the University of Applied Sciences Velika Go
 - Aws Deployment
 - Hostinger Managed Hosting
 - Wordpress & Elementor
-- CMS Development
+- Prompt Engineering & leveraging Agentic AI Solutions
   
 
 ## 🧑‍💻 Tech Related Work Experience
