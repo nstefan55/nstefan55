@@ -19,15 +19,19 @@ I am a 2nd year graduate student at the University of Applied Sciences Velika Go
 - TypeScript
 - React
 - Next.JS
+- Tailwind CSS
+- Python
 - Node.JS (w/Express.js)
 - MongoDB (Atlas, Mongoose)
 - MySql
 - Jest
 - Postman
-- Azure
-- Aws
+- Azure Deployment
+- Docker
+- Aws Deployment
 - Hostinger Managed Hosting
-- 
+- Wordpress & Elementor
+- CMS Development
   
 
 ## 🧑‍💻 Tech Related Work Experience
