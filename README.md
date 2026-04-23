@@ -20,23 +20,20 @@ I am a 2nd year graduate student at the University of Applied Sciences Velika Go
 - React
 - Next.JS
 - Tailwind CSS
-- Python
 - Node.JS (w/Express.js)
 - MongoDB (Atlas, Mongoose)
 - MySql
 - Jest
 - Postman
-- Azure Deployment
 - Docker
-- Aws Deployment
+- Aws
 - Hostinger Managed Hosting
 - Wordpress & Elementor
-- Prompt Engineering & leveraging Agentic AI Solutions
   
 
 ## 🧑‍💻 Tech Related Work Experience
 
-- **Digital Media Technician & Web Developer** – D8SOLUTIONS d.o.o. (Sep 2025 – Present)
+- **Technical Support, Video Editor & Web Developer** – D8SOLUTIONS d.o.o. (Sep 2025 – Present)
   
 - **Junior System Administrator** – Combis d.o.o. (Nov 2023 – Jan 2024)
   - Computer system maintenance, performance monitoring, log analysis, hardware/software troubleshooting, Active Directory user management, automation and scripting, L2 support
@@ -50,11 +47,6 @@ I am a 2nd year graduate student at the University of Applied Sciences Velika Go
 - **Electrical Engineering School in Zagreb**  
   - Electrical Technician (Sep 2017 – Jun 2021)
  
-## 🏆 Certifications
-- **Nextjs From Scratch** - Traversy Media (April 2026)
-- **React Full Course** - SuperSimple.dev (September 2025)
-- **Modern JavaScript 2.0** – Traversy Media (June 2025)
-- **HTML and CSS Full Course** – SuperSimple.Dev (October 2023)
 
 ## 🌍 Languages
 
