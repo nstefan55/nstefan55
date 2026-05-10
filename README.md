@@ -33,7 +33,7 @@ I am a 2nd year graduate student at the University of Applied Sciences Velika Go
 
 ## 🧑‍💻 Tech Related Work Experience
 
-- **Technical Support, Video Editor & Web Developer** – D8SOLUTIONS d.o.o. (Sep 2025 – Present)
+- **AV Engineer, Video Editor & Web Developer** – D8SOLUTIONS d.o.o. (Sep 2025 – Present)
   
 - **Junior System Administrator** – Combis d.o.o. (Nov 2023 – Jan 2024)
   - Computer system maintenance, performance monitoring, log analysis, hardware/software troubleshooting, Active Directory user management, automation and scripting, L2 support
